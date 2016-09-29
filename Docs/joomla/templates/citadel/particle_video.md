@@ -30,6 +30,7 @@ These options affect the main area of the particle, and not the individual items
 | Particle Name | Enter the name you would like to assign to the particle. This only appears in the back end. |
 | CSS Classes   | Sets any CSS class(es) you want to have apply to the particle's content.                    |
 | Title         | Enter a title for the particle.                                                             |
+| Blocks        | Create an addtional row(s) for a video within the particle.
 
 ### Item Options
 
